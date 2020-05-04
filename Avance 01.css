@@ -1,0 +1,17 @@
+#cv{
+    border: steelblue solid 3px;
+    padding: 60px;
+    margin: 0 auto;
+    width: 65%;      
+    background: white;
+    background: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-business-resume-background-material-image_177422.jpg) ;
+    background-size: 100%; 
+
+}
+
+body{
+    background  : url("https://img.freepik.com/vector-gratis/fondo-triangular-poli-estilo-origami_43969-963.jpg?size=626&ext=jpg" );
+    background-size: 100%;
+    background-attachment: fixed;
+    
+}
